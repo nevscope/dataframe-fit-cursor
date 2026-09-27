@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "DataFrame.fit": {
+      "url": "https://dataframe.fit/api/mcp"
+    }
+  }
+}

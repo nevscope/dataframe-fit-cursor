@@ -1,0 +1,13 @@
+{
+  "name": "dataframe-fit",
+  "version": "1.0.0",
+  "description": "Train better with clear data. Connect Claude-style tools in Cursor to your Garmin activities, recovery, nutrition, races, and training plan on DataFrame.fit.",
+  "author": {
+    "name": "DataFrame.fit"
+  },
+  "homepage": "https://dataframe.fit/mcp",
+  "repository": "https://github.com/nevscope/dataframe-fit-cursor",
+  "license": "MIT",
+  "keywords": ["mcp", "garmin", "training", "fitness", "recovery", "nutrition", "oauth"],
+  "logo": "assets/logo.png"
+}
